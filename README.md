@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @pedromi2
-- 👀 I’m interested in learn iOS Development
-- 📫 How to reach me pedro@midoes.com
+👋 Hi, I’m @pedromi2, I’m interested in learn iOS Development
+📫 pedro@midoes.com
 
 <!---
 pedromi2/pedromi2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
